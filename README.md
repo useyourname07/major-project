@@ -1,4 +1,5 @@
 🌿 Plant Species and Leaf Disease Classification
+
 This repository contains the codebase for a Major Project by two final-year undergraduate students from the Department of Computer Science and Engineering, Adamas University, Kolkata, India:
 
 Sarthak Shah
@@ -6,6 +7,7 @@ Sarthak Shah
 Tanbir Saha
 
 📌 Project Overview
+
 The aim of this project is to develop a deep learning-based system for plant species identification and leaf disease classification. It includes:
 
 Custom Convolutional Neural Network (CNN) models.

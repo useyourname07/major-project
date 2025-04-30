@@ -1,43 +1,47 @@
 🌿 Plant Species and Leaf Disease Classification
 
-This repository contains the codebase for a Major Project by two final-year undergraduate students from the Department of Computer Science and Engineering, Adamas University, Kolkata, India:
+A major project by Sarthak Shah and Tanbir Saha, final-year CSE students at Adamas University, Kolkata.
 
-Sarthak Shah
 
-Tanbir Saha
 
-📌 Project Overview
+📌 Overview
 
-The aim of this project is to develop a deep learning-based system for plant species identification and leaf disease classification. It includes:
+This project focuses on building deep learning models for classifying plant species and detecting leaf diseases using:
 
-Custom Convolutional Neural Network (CNN) models.
+Custom CNN architectures
 
-Transfer Learning using popular pre-trained models.
+Transfer Learning (MobileNetV2, EfficientNetB0, ResNet50)
 
-This project addresses the growing need for automated and efficient plant disease detection, which can assist farmers and agricultural experts in early diagnosis and better crop management.
 
-📁 Repository Contents
 
-Code for training and evaluating our custom CNN architectures.
+📁 Contents
 
-Code implementing transfer learning with models such as MobileNetV2, EfficientNetB0 and ResNet50.
+Code for custom CNN and transfer learning models
 
-Final project presentation slides summarizing the objectives, methodology, results, and conclusions.
+Final project presentation
 
-README.md: Project overview and instructions (you’re reading it!).
+This README
 
-🛠️ Technologies & Tools
+
+
+🛠️ Tools & Tech
 
 Python
 
 TensorFlow / Keras
 
-NumPy, Matplotlib, OpenCV
+NumPy, OpenCV, Matplotlib
 
 Jupyter Notebooks
 
+
+
 📊 Results
-Our models achieved promising accuracy levels in both species recognition and disease classification tasks. Details and evaluation metrics are included in the presentation.
+
+Our models showed strong performance in both classification tasks. Detailed results are in the presentation.
+
+
 
 🤝 Acknowledgements
-Thanks to the faculty and peers of the Department of CSE, Adamas University, for their continuous guidance and support throughout the project.
+
+Grateful to the Department of CSE, Adamas University, for guidance and support.
